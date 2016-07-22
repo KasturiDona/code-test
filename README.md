@@ -7,8 +7,7 @@
 ### Follow the instructions to run the software
 On your Terminal run
 - clone the project
-- npm install mocha --save-dev
-- npm install chai --save-dev
+- npm install
 
 ### To view the results on the terminal
 - npm run test-watch
