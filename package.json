@@ -1,0 +1,16 @@
+{
+  "name": "code-test",
+  "version": "0.0.1",
+  "description": "codetest using mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./**/*.specs.js --ui bdd --reporter progress",
+    "test-watch": "npm test -- --watch"
+  },
+  "author": "Kasturi Ghosh",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
