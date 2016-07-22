@@ -1,10 +1,11 @@
 # Numeric Sequence Calculator
-## devDependencies
+### devDependencies
 - npm
 - mocha
 - chai
-## Follow the instructions to run the software
-### On your Terminal run
+
+### Follow the instructions to run the software
+On your Terminal run
 - clone the project
 - npm install mocha --save-dev
 - npm install chai --save-dev
